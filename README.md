@@ -1,0 +1,1 @@
+This is my first HTML project with TheOdinProject course! This project will be about making a short recipe using HTML and CSS (:
